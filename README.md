@@ -8,7 +8,7 @@
 i'm a 14 year old software developer, i usually work around open source projects!!
 
 ### current project 💻
-+ **Scythe**: a multipurpose discord bot.
++ **scythe**: a multipurpose discord bot.
 
 ### where can I contact you? ✉️
 + Twitter: [ilypityy][1]
