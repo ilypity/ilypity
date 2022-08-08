@@ -1,16 +1,16 @@
-### Hi there 👋
+[1]: https://twitter.com/ilypityy
+[2]: https://discord.com/users/851153039225520128
 
-<!--
-**ilypity/ilypity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## helo 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### about me 🤘
+i'm a 14 year old software developer, i usually work around open source projects!!
+
+### current project 💻
++ **Scythe**: a multipurpose discord bot.
+
+### where can I contact you? ✉️
++ Twitter: [ilypityy][1]
++ Discord: [pity#1337][2]
+
