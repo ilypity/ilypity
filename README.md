@@ -1,5 +1,4 @@
-[1]: https://twitter.com/ilypityy
-[2]: https://discord.com/users/851153039225520128
+[2]: https://discord.com/users/941864953965592636
 
 
 ## helo 👋
@@ -8,9 +7,8 @@
 i'm a 14 year old software developer, i usually work around open source projects!!
 
 ### current project 💻
-+ **scythe**: a multipurpose discord bot.
++ **malloc.wtf** - helping contribute notes
 
 ### where can I contact you? ✉️
-+ Twitter: [ilypityy][1]
-+ Discord: [pity#1337][2]
++ Discord: [freakazoid#5899][2]
 
